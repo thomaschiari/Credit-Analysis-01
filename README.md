@@ -6,4 +6,3 @@ O objetivo deste projeto é elaborar algoritmos de análise descritiva para as v
 ## Metodologia
 Para a análise exploratória dos dados, foi utilizado o Python, com as bibliotecas Pandas, Numpy, Matplotlib e Seaborn. Para a modelagem, foi utilizado o Scikit-Learn, com os modelos de Regressão Logística, Árvore de Decisão, Random Forest e Gradient Boosting.
 Também foi utilizado o R para a modelagem, com os mesmos modelos de Regressão Logística, Árvore de Decisão, Random Forest e Gradient Boosting.
-# Classifica-o-de-Cr-dito
